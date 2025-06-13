@@ -1,0 +1,2 @@
+# BigWorld_MAXScripts
+bigworld BigWorld_MAXScripts
